@@ -1,3 +1,7 @@
 puts "This line added by project RLGGHC"
 puts "This line added by ashbb (Satoshi Asakawa)"
-puts "Added this line by L. Costa"
+puts "This line added by jasonnoble (Jason Noble)"
+puts "This line added by abstract (Bruno Oliveira da Silva)"
+puts "This line added by jasnow (Al Snow)"
+puts "This line added by rgo (Rafa G.)"
+puts "This line added by lcosta (L. Costa)"
